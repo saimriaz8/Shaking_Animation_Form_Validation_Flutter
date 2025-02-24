@@ -48,8 +48,8 @@ shaking-animation-form/
 │── README.md  # Project documentation
 ```
 
-## Screenshots
-![Form Example](https://your-image-url.com)
+## Video
+[Shaking Animation - Google Chrome 2025-02-24 23-10-12.zip](https://github.com/user-attachments/files/18948236/Shaking.Animation.-.Google.Chrome.2025-02-24.23-10-12.zip)
 
 ## Contributions
 Pull requests are welcome! Feel free to contribute by improving animations, optimizing validation logic, or enhancing UI elements.
